@@ -392,11 +392,6 @@ HadalUrn: {
 		'''
 }
 
-HarvestStaff: {
-	DisplayName: Harvest Staff
-	Tooltip: Casts flaming pumpkins
-}
-
 HeliumFlash: {
 	DisplayName: Helium Flash
 	Tooltip:
